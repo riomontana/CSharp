@@ -1,0 +1,56 @@
+E:\Skola\c#\Assignments\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+E:\Skola\c#\Assignments\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+E:\Skola\c#\Assignments\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+E:\Skola\c#\Assignments\Assignment1\Assignment1\bin\Debug\Assignment1Library.dll
+E:\Skola\c#\Assignments\Assignment1\Assignment1\bin\Debug\Assignment1Library.pdb
+E:\Skola\c#\Assignments\Assignment1\Assignment1\obj\Debug\PresentationLayer.csprojAssemblyReference.cache
+E:\Skola\c#\Assignments\Assignment1\Assignment1\obj\Debug\Assignment1.Gui.resources
+E:\Skola\c#\Assignments\Assignment1\Assignment1\obj\Debug\Assignment1.Properties.Resources.resources
+E:\Skola\c#\Assignments\Assignment1\Assignment1\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+E:\Skola\c#\Assignments\Assignment1\Assignment1\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+E:\Skola\c#\Assignments\Assignment1\Assignment1\obj\Debug\PresentationLayer.csproj.CopyComplete
+E:\Skola\c#\Assignments\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+E:\Skola\c#\Assignments\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
+E:\Skola\c#\Assignments\Assignment1 - Copy\PresentationLayer\bin\Debug\Assignment1.exe.config
+E:\Skola\c#\Assignments\Assignment1 - Copy\PresentationLayer\bin\Debug\Assignment1.exe
+E:\Skola\c#\Assignments\Assignment1 - Copy\PresentationLayer\bin\Debug\Assignment1.pdb
+E:\Skola\c#\Assignments\Assignment1 - Copy\PresentationLayer\bin\Debug\Assignment1Library.dll
+E:\Skola\c#\Assignments\Assignment1 - Copy\PresentationLayer\bin\Debug\Assignment1Library.pdb
+E:\Skola\c#\Assignments\Assignment1 - Copy\PresentationLayer\obj\Debug\PresentationLayer.csprojAssemblyReference.cache
+E:\Skola\c#\Assignments\Assignment1 - Copy\PresentationLayer\obj\Debug\Assignment1.Gui.resources
+E:\Skola\c#\Assignments\Assignment1 - Copy\PresentationLayer\obj\Debug\Assignment1.Properties.Resources.resources
+E:\Skola\c#\Assignments\Assignment1 - Copy\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+E:\Skola\c#\Assignments\Assignment1 - Copy\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+E:\Skola\c#\Assignments\Assignment1 - Copy\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+E:\Skola\c#\Assignments\Assignment1 - Copy\PresentationLayer\obj\Debug\Assignment1.exe
+E:\Skola\c#\Assignments\Assignment1 - Copy\PresentationLayer\obj\Debug\Assignment1.pdb
+E:\Skola\c#\Assignments\Assignment1\PresentationLayer\bin\Debug\Assignment1.exe.config
+E:\Skola\c#\Assignments\Assignment1\PresentationLayer\bin\Debug\Assignment1.exe
+E:\Skola\c#\Assignments\Assignment1\PresentationLayer\bin\Debug\Assignment1.pdb
+E:\Skola\c#\Assignments\Assignment1\PresentationLayer\bin\Debug\Assignment1Library.dll
+E:\Skola\c#\Assignments\Assignment1\PresentationLayer\bin\Debug\Assignment1Library.pdb
+E:\Skola\c#\Assignments\Assignment1\PresentationLayer\obj\Debug\PresentationLayer.csprojAssemblyReference.cache
+E:\Skola\c#\Assignments\Assignment1\PresentationLayer\obj\Debug\Assignment1.Gui.resources
+E:\Skola\c#\Assignments\Assignment1\PresentationLayer\obj\Debug\Assignment1.Properties.Resources.resources
+E:\Skola\c#\Assignments\Assignment1\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+E:\Skola\c#\Assignments\Assignment1\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+E:\Skola\c#\Assignments\Assignment1\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+E:\Skola\c#\Assignments\Assignment1\PresentationLayer\obj\Debug\Assignment1.exe
+E:\Skola\c#\Assignments\Assignment1\PresentationLayer\obj\Debug\Assignment1.pdb
+E:\Skola\c#\Assignments\Assignment1\PresentationLayer\bin\Debug\DataLayer.dll
+E:\Skola\c#\Assignments\Assignment1\PresentationLayer\bin\Debug\DataLayer.pdb
+E:\Skola\c#\Assignments\Assignment1_LinusForsberg\Assignment1\PresentationLayer\bin\Debug\Assignment1.exe.config
+E:\Skola\c#\Assignments\Assignment1_LinusForsberg\Assignment1\PresentationLayer\bin\Debug\Assignment1.exe
+E:\Skola\c#\Assignments\Assignment1_LinusForsberg\Assignment1\PresentationLayer\bin\Debug\Assignment1.pdb
+E:\Skola\c#\Assignments\Assignment1_LinusForsberg\Assignment1\PresentationLayer\bin\Debug\Assignment1Library.dll
+E:\Skola\c#\Assignments\Assignment1_LinusForsberg\Assignment1\PresentationLayer\bin\Debug\DataLayer.dll
+E:\Skola\c#\Assignments\Assignment1_LinusForsberg\Assignment1\PresentationLayer\bin\Debug\Assignment1Library.pdb
+E:\Skola\c#\Assignments\Assignment1_LinusForsberg\Assignment1\PresentationLayer\bin\Debug\DataLayer.pdb
+E:\Skola\c#\Assignments\Assignment1_LinusForsberg\Assignment1\PresentationLayer\obj\Debug\PresentationLayer.csprojAssemblyReference.cache
+E:\Skola\c#\Assignments\Assignment1_LinusForsberg\Assignment1\PresentationLayer\obj\Debug\Assignment1.Gui.resources
+E:\Skola\c#\Assignments\Assignment1_LinusForsberg\Assignment1\PresentationLayer\obj\Debug\Assignment1.Properties.Resources.resources
+E:\Skola\c#\Assignments\Assignment1_LinusForsberg\Assignment1\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+E:\Skola\c#\Assignments\Assignment1_LinusForsberg\Assignment1\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+E:\Skola\c#\Assignments\Assignment1_LinusForsberg\Assignment1\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+E:\Skola\c#\Assignments\Assignment1_LinusForsberg\Assignment1\PresentationLayer\obj\Debug\Assignment1.exe
+E:\Skola\c#\Assignments\Assignment1_LinusForsberg\Assignment1\PresentationLayer\obj\Debug\Assignment1.pdb

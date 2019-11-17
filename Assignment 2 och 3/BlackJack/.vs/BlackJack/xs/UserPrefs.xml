@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="GameCardLib/GameManager.cs">
+    <Files>
+      <File FileName="GameCardLib/CardEventArgs.cs" Line="1" Column="1" />
+      <File FileName="Gui/MultiWindow.xaml.cs" Line="1" Column="1" />
+      <File FileName="GameCardLib/GameManager.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

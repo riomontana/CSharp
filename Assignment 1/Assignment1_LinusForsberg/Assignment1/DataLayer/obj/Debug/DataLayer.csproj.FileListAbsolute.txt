@@ -1,0 +1,15 @@
+E:/Skola/c#/Assignments/Assignment1/DataLayer/bin/Debug/DataLayer.dll
+E:/Skola/c#/Assignments/Assignment1/DataLayer/bin/Debug/DataLayer.pdb
+E:/Skola/c#/Assignments/Assignment1/DataLayer/obj/Debug/DataLayer.csprojAssemblyReference.cache
+E:/Skola/c#/Assignments/Assignment1/DataLayer/obj/Debug/DataLayer.csproj.CoreCompileInputs.cache
+E:/Skola/c#/Assignments/Assignment1/DataLayer/obj/Debug/DataLayer.dll
+E:/Skola/c#/Assignments/Assignment1/DataLayer/obj/Debug/DataLayer.pdb
+/Volumes/LFO 1/Skola/c#/Assignments/Assignment1_LinusForsberg/Assignment1/DataLayer/obj/Debug/DataLayer.csproj.CoreCompileInputs.cache
+/Volumes/LFO 1/Skola/c#/Assignments/Assignment1_LinusForsberg/Assignment1/DataLayer/obj/Debug/DataLayer.dll
+/Volumes/LFO 1/Skola/c#/Assignments/Assignment1_LinusForsberg/Assignment1/DataLayer/obj/Debug/DataLayer.pdb
+E:\Skola\c#\Assignments\Assignment1_LinusForsberg\Assignment1\DataLayer\bin\Debug\DataLayer.dll
+E:\Skola\c#\Assignments\Assignment1_LinusForsberg\Assignment1\DataLayer\bin\Debug\DataLayer.pdb
+E:\Skola\c#\Assignments\Assignment1_LinusForsberg\Assignment1\DataLayer\obj\Debug\DataLayer.csprojAssemblyReference.cache
+E:\Skola\c#\Assignments\Assignment1_LinusForsberg\Assignment1\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+E:\Skola\c#\Assignments\Assignment1_LinusForsberg\Assignment1\DataLayer\obj\Debug\DataLayer.dll
+E:\Skola\c#\Assignments\Assignment1_LinusForsberg\Assignment1\DataLayer\obj\Debug\DataLayer.pdb

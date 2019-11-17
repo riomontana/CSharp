@@ -1,0 +1,6 @@
+E:\Skola\c#\Assignments\Assignment1\Assignment1Library\bin\Debug\Assignment1Library.dll
+E:\Skola\c#\Assignments\Assignment1\Assignment1Library\bin\Debug\Assignment1Library.pdb
+E:\Skola\c#\Assignments\Assignment1\Assignment1Library\obj\Debug\Assignment1Library.csprojAssemblyReference.cache
+E:\Skola\c#\Assignments\Assignment1\Assignment1Library\obj\Debug\Assignment1Library.csproj.CoreCompileInputs.cache
+E:\Skola\c#\Assignments\Assignment1\Assignment1Library\obj\Debug\Assignment1Library.dll
+E:\Skola\c#\Assignments\Assignment1\Assignment1Library\obj\Debug\Assignment1Library.pdb

@@ -1,0 +1,40 @@
+﻿<Window x:Class="Gui.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Gui"
+        mc:Ignorable="d"
+        ResizeMode="NoResize"
+        
+        Title="Black Jack" Height="340" Width="468.057" Closed="Window_Closed" WindowStyle="ThreeDBorderWindow">
+    <Grid Margin="0,0,-6,-1" Background="ForestGreen" HorizontalAlignment="Left" Width="796">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="31*"/>
+            <ColumnDefinition Width="98*"/>
+            <ColumnDefinition Width="663*"/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="btnNewGame" Content="New Game" HorizontalAlignment="Right" Margin="0,110,24,0" VerticalAlignment="Top" Width="75" Click="Button_Click" Grid.Column="1"/>
+        <Button x:Name="btnHighScores" Content="High scores" HorizontalAlignment="Right" Margin="0,150,24,0" VerticalAlignment="Top" Width="75" Click="High_Scores_Click" Grid.Column="1"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="299" Margin="10,10,0,0" VerticalAlignment="Top" Width="115" RenderTransformOrigin="0.5,0.5" Grid.ColumnSpan="2">
+
+            <Image Source="pack://application:,,,/Gui;component/Resources/logo.png" Margin="0,-1,-1,208" RenderOptions.BitmapScalingMode="HighQuality"/>
+
+        </Border>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="299" Margin="0,10,0,0" VerticalAlignment="Top" Width="326" Grid.Column="2"/>
+        <Label x:Name="lblDecks" Content="Decks: " HorizontalAlignment="Left" Margin="0,190,0,0" VerticalAlignment="Top" Grid.Column="1"/>
+        <Label x:Name="lblDealerScore" Content="" HorizontalAlignment="Left" Margin="24,44,0,0" VerticalAlignment="Top" Grid.Column="2" FontSize="17"/>
+        <Label x:Name="lblDealer" Content="" HorizontalAlignment="Left" Margin="24,21,0,0" VerticalAlignment="Top" Grid.Column="2"/>
+        <Label x:Name="lblNbrOfPlayers" Content="Players: " HorizontalAlignment="Left" Margin="0,227,0,0" VerticalAlignment="Top" Grid.Column="1"/>
+        <Label x:Name="lblNbrOfCards" Content="Cards left: " HorizontalAlignment="Left" Margin="0,267,0,0" VerticalAlignment="Top" Grid.Column="1"/>
+        <Label x:Name="lblDealerNbrOfWins" Content="" HorizontalAlignment="Left" Margin="24,82,0,0" VerticalAlignment="Top" Grid.Column="2"/>
+
+        <Image x:Name="DealerCard1" Grid.Column="2" HorizontalAlignment="Left" Height="98" Margin="5,190,0,0" VerticalAlignment="Top" Width="58" RenderOptions.BitmapScalingMode="HighQuality"/>
+        <Image x:Name="DealerCard2" Grid.Column="2" HorizontalAlignment="Left" Height="98" Margin="68,190,0,0" VerticalAlignment="Top" Width="58" RenderOptions.BitmapScalingMode="HighQuality"/>
+        <Image x:Name="DealerCard3" Grid.Column="2" HorizontalAlignment="Left" Height="98" Margin="131,190,0,0" VerticalAlignment="Top" Width="58" RenderOptions.BitmapScalingMode="HighQuality"/>
+        <Image x:Name="DealerCard4" Grid.Column="2" HorizontalAlignment="Left" Height="98" Margin="194,190,0,0" VerticalAlignment="Top" Width="58" RenderOptions.BitmapScalingMode="HighQuality"/>
+        <Image x:Name="DealerCard5" Grid.Column="2" HorizontalAlignment="Left" Height="98" Margin="259,190,0,0" VerticalAlignment="Top" Width="58" RenderOptions.BitmapScalingMode="HighQuality"/>
+        <Label x:Name="lblWelcome" Content="Welcome to Black Jack!" HorizontalAlignment="Left" Margin="54,139,0,0" VerticalAlignment="Top" Grid.Column="2" FontSize="20"/>
+
+    </Grid>
+</Window>

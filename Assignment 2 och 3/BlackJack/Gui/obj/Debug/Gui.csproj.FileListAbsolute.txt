@@ -1,0 +1,108 @@
+E:\Skola\c#\Assignments\Assignment 2\Assignment2\Gui\bin\Debug\Gui.exe.config
+E:\Skola\c#\Assignments\Assignment 2\Assignment2\Gui\bin\Debug\Gui.exe
+E:\Skola\c#\Assignments\Assignment 2\Assignment2\Gui\bin\Debug\Gui.pdb
+E:\Skola\c#\Assignments\Assignment 2\Assignment2\Gui\obj\Debug\Gui.csprojAssemblyReference.cache
+E:\Skola\c#\Assignments\Assignment 2\Assignment2\Gui\obj\Debug\MainWindow.g.cs
+E:\Skola\c#\Assignments\Assignment 2\Assignment2\Gui\obj\Debug\App.g.cs
+E:\Skola\c#\Assignments\Assignment 2\Assignment2\Gui\obj\Debug\Gui_MarkupCompile.cache
+E:\Skola\c#\Assignments\Assignment 2\Assignment2\Gui\obj\Debug\Gui_MarkupCompile.lref
+E:\Skola\c#\Assignments\Assignment 2\Assignment2\Gui\obj\Debug\MainWindow.baml
+E:\Skola\c#\Assignments\Assignment 2\Assignment2\Gui\obj\Debug\Gui.g.resources
+E:\Skola\c#\Assignments\Assignment 2\Assignment2\Gui\obj\Debug\Gui.Properties.Resources.resources
+E:\Skola\c#\Assignments\Assignment 2\Assignment2\Gui\obj\Debug\Gui.csproj.GenerateResource.cache
+E:\Skola\c#\Assignments\Assignment 2\Assignment2\Gui\obj\Debug\Gui.csproj.CoreCompileInputs.cache
+E:\Skola\c#\Assignments\Assignment 2\Assignment2\Gui\obj\Debug\Gui.exe
+E:\Skola\c#\Assignments\Assignment 2\Assignment2\Gui\obj\Debug\Gui.pdb
+E:\Skola\c#\Assignments\Assignment 2\Assignment2\Gui\bin\Debug\GameCardLib.dll
+E:\Skola\c#\Assignments\Assignment 2\Assignment2\Gui\bin\Debug\GameCardLib.pdb
+E:\Skola\c#\Assignments\Assignment 2\Assignment2\Gui\obj\Debug\Gui.csproj.CopyComplete
+E:\Skola\c#\Assignments\Assignment 2\Assignment2\Gui\obj\Debug\MultiWindow.g.cs
+E:\Skola\c#\Assignments\Assignment 2\Assignment2\Gui\obj\Debug\MultiWindow.baml
+E:\Skola\c#\Assignments\Assignment 2\Assignment2\Gui\obj\Debug\HighScoreWindow.g.cs
+E:\Skola\c#\Assignments\Assignment 2\Assignment2\Gui\obj\Debug\HighScoreWindow.baml
+E:\Skola\c#\Assignments\Assignment 2\Assignment2\Gui\bin\Debug\EntityFramework.dll
+E:\Skola\c#\Assignments\Assignment 2\Assignment2\Gui\bin\Debug\GameCardLib.dll.config
+E:\Skola\c#\Assignments\Assignment 2\Assignment2\Gui\bin\Debug\EntityFramework.xml
+E:\Skola\c#\Assignments\Assignment 2\Assignment2\Gui\bin\Debug\EntityFramework.SqlServer.dll
+E:\Skola\c#\Assignments\Assignment 2\Assignment2\Gui\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\linus\Desktop\Assignment 2\Assignment2\Gui\bin\Debug\Gui.exe.config
+C:\Users\linus\Desktop\Assignment 2\Assignment2\Gui\bin\Debug\Gui.exe
+C:\Users\linus\Desktop\Assignment 2\Assignment2\Gui\bin\Debug\Gui.pdb
+C:\Users\linus\Desktop\Assignment 2\Assignment2\Gui\bin\Debug\EntityFramework.dll
+C:\Users\linus\Desktop\Assignment 2\Assignment2\Gui\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\linus\Desktop\Assignment 2\Assignment2\Gui\bin\Debug\GameCardLib.dll
+C:\Users\linus\Desktop\Assignment 2\Assignment2\Gui\bin\Debug\GameCardLib.pdb
+C:\Users\linus\Desktop\Assignment 2\Assignment2\Gui\bin\Debug\GameCardLib.dll.config
+C:\Users\linus\Desktop\Assignment 2\Assignment2\Gui\bin\Debug\EntityFramework.xml
+C:\Users\linus\Desktop\Assignment 2\Assignment2\Gui\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\linus\Desktop\Assignment 2\Assignment2\Gui\obj\Debug\Gui.csprojAssemblyReference.cache
+C:\Users\linus\Desktop\Assignment 2\Assignment2\Gui\obj\Debug\HighScoreWindow.g.cs
+C:\Users\linus\Desktop\Assignment 2\Assignment2\Gui\obj\Debug\MultiWindow.g.cs
+C:\Users\linus\Desktop\Assignment 2\Assignment2\Gui\obj\Debug\MainWindow.g.cs
+C:\Users\linus\Desktop\Assignment 2\Assignment2\Gui\obj\Debug\App.g.cs
+C:\Users\linus\Desktop\Assignment 2\Assignment2\Gui\obj\Debug\Gui_MarkupCompile.cache
+C:\Users\linus\Desktop\Assignment 2\Assignment2\Gui\obj\Debug\Gui_MarkupCompile.lref
+C:\Users\linus\Desktop\Assignment 2\Assignment2\Gui\obj\Debug\HighScoreWindow.baml
+C:\Users\linus\Desktop\Assignment 2\Assignment2\Gui\obj\Debug\MultiWindow.baml
+C:\Users\linus\Desktop\Assignment 2\Assignment2\Gui\obj\Debug\MainWindow.baml
+C:\Users\linus\Desktop\Assignment 2\Assignment2\Gui\obj\Debug\Gui.g.resources
+C:\Users\linus\Desktop\Assignment 2\Assignment2\Gui\obj\Debug\Gui.Properties.Resources.resources
+C:\Users\linus\Desktop\Assignment 2\Assignment2\Gui\obj\Debug\Gui.csproj.GenerateResource.cache
+C:\Users\linus\Desktop\Assignment 2\Assignment2\Gui\obj\Debug\Gui.csproj.CoreCompileInputs.cache
+C:\Users\linus\Desktop\Assignment 2\Assignment2\Gui\obj\Debug\Gui.csproj.CopyComplete
+C:\Users\linus\Desktop\Assignment 2\Assignment2\Gui\obj\Debug\Gui.exe
+C:\Users\linus\Desktop\Assignment 2\Assignment2\Gui\obj\Debug\Gui.pdb
+C:\Users\linus\Desktop\Assignment 2 - Copy\Assignment2\Gui\bin\Debug\Gui.exe.config
+C:\Users\linus\Desktop\Assignment 2 - Copy\Assignment2\Gui\bin\Debug\Gui.exe
+C:\Users\linus\Desktop\Assignment 2 - Copy\Assignment2\Gui\bin\Debug\Gui.pdb
+C:\Users\linus\Desktop\Assignment 2 - Copy\Assignment2\Gui\bin\Debug\EntityFramework.dll
+C:\Users\linus\Desktop\Assignment 2 - Copy\Assignment2\Gui\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\linus\Desktop\Assignment 2 - Copy\Assignment2\Gui\bin\Debug\GameCardLib.dll
+C:\Users\linus\Desktop\Assignment 2 - Copy\Assignment2\Gui\bin\Debug\GameCardLib.pdb
+C:\Users\linus\Desktop\Assignment 2 - Copy\Assignment2\Gui\bin\Debug\GameCardLib.dll.config
+C:\Users\linus\Desktop\Assignment 2 - Copy\Assignment2\Gui\bin\Debug\EntityFramework.xml
+C:\Users\linus\Desktop\Assignment 2 - Copy\Assignment2\Gui\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\linus\Desktop\Assignment 2 - Copy\Assignment2\Gui\obj\Debug\Gui.csprojAssemblyReference.cache
+C:\Users\linus\Desktop\Assignment 2 - Copy\Assignment2\Gui\obj\Debug\HighScoreWindow.g.cs
+C:\Users\linus\Desktop\Assignment 2 - Copy\Assignment2\Gui\obj\Debug\MultiWindow.g.cs
+C:\Users\linus\Desktop\Assignment 2 - Copy\Assignment2\Gui\obj\Debug\MainWindow.g.cs
+C:\Users\linus\Desktop\Assignment 2 - Copy\Assignment2\Gui\obj\Debug\App.g.cs
+C:\Users\linus\Desktop\Assignment 2 - Copy\Assignment2\Gui\obj\Debug\Gui_MarkupCompile.cache
+C:\Users\linus\Desktop\Assignment 2 - Copy\Assignment2\Gui\obj\Debug\Gui_MarkupCompile.lref
+C:\Users\linus\Desktop\Assignment 2 - Copy\Assignment2\Gui\obj\Debug\HighScoreWindow.baml
+C:\Users\linus\Desktop\Assignment 2 - Copy\Assignment2\Gui\obj\Debug\MultiWindow.baml
+C:\Users\linus\Desktop\Assignment 2 - Copy\Assignment2\Gui\obj\Debug\MainWindow.baml
+C:\Users\linus\Desktop\Assignment 2 - Copy\Assignment2\Gui\obj\Debug\Gui.g.resources
+C:\Users\linus\Desktop\Assignment 2 - Copy\Assignment2\Gui\obj\Debug\Gui.Properties.Resources.resources
+C:\Users\linus\Desktop\Assignment 2 - Copy\Assignment2\Gui\obj\Debug\Gui.csproj.GenerateResource.cache
+C:\Users\linus\Desktop\Assignment 2 - Copy\Assignment2\Gui\obj\Debug\Gui.csproj.CoreCompileInputs.cache
+C:\Users\linus\Desktop\Assignment 2 - Copy\Assignment2\Gui\obj\Debug\Gui.csproj.CopyComplete
+C:\Users\linus\Desktop\Assignment 2 - Copy\Assignment2\Gui\obj\Debug\Gui.exe
+C:\Users\linus\Desktop\Assignment 2 - Copy\Assignment2\Gui\obj\Debug\Gui.pdb
+C:\Users\linus\Desktop\Assignment 2\BlackJack\Gui\bin\Debug\Gui.exe.config
+C:\Users\linus\Desktop\Assignment 2\BlackJack\Gui\bin\Debug\Gui.exe
+C:\Users\linus\Desktop\Assignment 2\BlackJack\Gui\bin\Debug\Gui.pdb
+C:\Users\linus\Desktop\Assignment 2\BlackJack\Gui\bin\Debug\EntityFramework.dll
+C:\Users\linus\Desktop\Assignment 2\BlackJack\Gui\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\linus\Desktop\Assignment 2\BlackJack\Gui\bin\Debug\GameCardLib.dll
+C:\Users\linus\Desktop\Assignment 2\BlackJack\Gui\bin\Debug\GameCardLib.pdb
+C:\Users\linus\Desktop\Assignment 2\BlackJack\Gui\bin\Debug\GameCardLib.dll.config
+C:\Users\linus\Desktop\Assignment 2\BlackJack\Gui\bin\Debug\EntityFramework.xml
+C:\Users\linus\Desktop\Assignment 2\BlackJack\Gui\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\linus\Desktop\Assignment 2\BlackJack\Gui\obj\Debug\Gui.csprojAssemblyReference.cache
+C:\Users\linus\Desktop\Assignment 2\BlackJack\Gui\obj\Debug\HighScoreWindow.g.cs
+C:\Users\linus\Desktop\Assignment 2\BlackJack\Gui\obj\Debug\MultiWindow.g.cs
+C:\Users\linus\Desktop\Assignment 2\BlackJack\Gui\obj\Debug\MainWindow.g.cs
+C:\Users\linus\Desktop\Assignment 2\BlackJack\Gui\obj\Debug\App.g.cs
+C:\Users\linus\Desktop\Assignment 2\BlackJack\Gui\obj\Debug\Gui_MarkupCompile.cache
+C:\Users\linus\Desktop\Assignment 2\BlackJack\Gui\obj\Debug\Gui_MarkupCompile.lref
+C:\Users\linus\Desktop\Assignment 2\BlackJack\Gui\obj\Debug\HighScoreWindow.baml
+C:\Users\linus\Desktop\Assignment 2\BlackJack\Gui\obj\Debug\MultiWindow.baml
+C:\Users\linus\Desktop\Assignment 2\BlackJack\Gui\obj\Debug\MainWindow.baml
+C:\Users\linus\Desktop\Assignment 2\BlackJack\Gui\obj\Debug\Gui.g.resources
+C:\Users\linus\Desktop\Assignment 2\BlackJack\Gui\obj\Debug\Gui.Properties.Resources.resources
+C:\Users\linus\Desktop\Assignment 2\BlackJack\Gui\obj\Debug\Gui.csproj.GenerateResource.cache
+C:\Users\linus\Desktop\Assignment 2\BlackJack\Gui\obj\Debug\Gui.csproj.CoreCompileInputs.cache
+C:\Users\linus\Desktop\Assignment 2\BlackJack\Gui\obj\Debug\Gui.csproj.CopyComplete
+C:\Users\linus\Desktop\Assignment 2\BlackJack\Gui\obj\Debug\Gui.exe
+C:\Users\linus\Desktop\Assignment 2\BlackJack\Gui\obj\Debug\Gui.pdb

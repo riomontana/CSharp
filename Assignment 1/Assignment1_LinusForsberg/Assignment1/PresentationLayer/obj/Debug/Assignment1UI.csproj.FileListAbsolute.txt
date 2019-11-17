@@ -1,0 +1,13 @@
+E:\Skola\c#\Assignments\Assignment1\Assignment1\obj\Debug\Assignment1UI.csprojAssemblyReference.cache
+E:\Skola\c#\Assignments\Assignment1\Assignment1\obj\Debug\Assignment1.Gui.resources
+E:\Skola\c#\Assignments\Assignment1\Assignment1\obj\Debug\Assignment1.Properties.Resources.resources
+E:\Skola\c#\Assignments\Assignment1\Assignment1\obj\Debug\Assignment1UI.csproj.GenerateResource.cache
+E:\Skola\c#\Assignments\Assignment1\Assignment1\obj\Debug\Assignment1UI.csproj.CoreCompileInputs.cache
+E:\Skola\c#\Assignments\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+E:\Skola\c#\Assignments\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
+E:\Skola\c#\Assignments\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+E:\Skola\c#\Assignments\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+E:\Skola\c#\Assignments\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+E:\Skola\c#\Assignments\Assignment1\Assignment1\bin\Debug\Assignment1Library.dll
+E:\Skola\c#\Assignments\Assignment1\Assignment1\bin\Debug\Assignment1Library.pdb
+E:\Skola\c#\Assignments\Assignment1\Assignment1\obj\Debug\Assignment1UI.csproj.CopyComplete
